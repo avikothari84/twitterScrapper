@@ -43,10 +43,10 @@ Your app is ready to be deployed!
 
 ```
 {
-    "API_key": "2Sc4z0scs8W6sVY3U9AJ7CNgs",
-    "API_Key_Secret": "n6MDgcBcSdziNtHkWSKL8FxQRNYpswmYgtHCOiaDHLPIlgh3uG",
-    "access_token": "198448422-lIJKzeYBh8RTYLyky2j9Gn6y2nrszzEQSJENeHEe",
-    "access_token_secret":"fm1axiGNBjmygyBlspWodWDkr0yLz0x1v20gz3j7ER0Kg"
+    "API_key": "",
+    "API_Key_Secret": "",
+    "access_token": "",
+    "access_token_secret":""
 }
 ```
 
